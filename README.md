@@ -8,6 +8,7 @@
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Setup Instructions](#setup-instructions)
+- [Future Work](#future-work)
 - [Model Details](#model-details)
 - [License](#license)
 
@@ -40,12 +41,20 @@ To set up the project locally, follow these steps:
    ```
 
 2. **Install dependencies**
-   Install the libraries in Requirement.txt "pip install -r requirements.txt"
+   Install the libraries in Requirement.txt
+   ```bash
+   pip install -r requirements.txt"
+   ```
 
-3. **Run the application**
+4. **Run the application**
+   ```bash
    python app.py
+   ```
 
-## Note: The accuracy of the model is around 88% but the model is showing some poor performance with cat images. Also, the file.txt is a bit outdated. It contain those files which are likely needed.
+## Future Work
+1. The accuracy of the model is around 88% but the model is showing some poor performance with cat images.
+2. The file.txt is a bit outdated. It contain those files which are likely needed. (Extra Info)
+3. Hosting the application.
 
 ## Model Details
 #### Summary
@@ -64,10 +73,3 @@ To set up the project locally, follow these steps:
 - **Dependencies:** Update the list of dependencies based on your actual project requirements.
 - **Instructions:** Ensure that all the setup instructions are correct and reflect the steps needed to get your project running.
 - **Contributing:** Modify the contributing section if you have specific guidelines for contributions.
-
-### Final Touches:
-- Add badges for build status, coverage, or license at the top if applicable.
-- Ensure all links (like the GitHub repo link and license link) are accurate.
-- If your project has specific usage examples or additional features, consider adding them to the README.
-
-This README template should provide a solid foundation for documenting your Cat vs. Dog Classifier project!
