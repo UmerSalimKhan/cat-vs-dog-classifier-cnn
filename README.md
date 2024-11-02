@@ -8,9 +8,7 @@
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
 - [Model Details](#model-details)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
@@ -49,7 +47,10 @@ To set up the project locally, follow these steps:
 
 ## Note: The accuracy of the model is around 88% but the model is showing some poor performance with cat images. Also, the file.txt is a bit outdated. It contain those files which are likely needed.
 
-## Licence Information
+## Model Details
+
+
+## License 
 ### How to Customize:
 - **Project Title and Description:** Make sure to replace the title and description with your specific project details.
 - **Image:** Replace the image link with one from your project or remove it if you don't have a relevant image.
