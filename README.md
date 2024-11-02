@@ -47,7 +47,7 @@ To set up the project locally, follow these steps:
 3. **Run the application**
    python app.py
 
-## Note: The accuracy of the model is around 88% but the model is showing some poor performance with cat images.
+## Note: The accuracy of the model is around 88% but the model is showing some poor performance with cat images. Also, the file.txt is a bit outdated. It contain those files which are likely needed.
 
 ## Licence Information
 ### How to Customize:
