@@ -48,7 +48,14 @@ To set up the project locally, follow these steps:
 ## Note: The accuracy of the model is around 88% but the model is showing some poor performance with cat images. Also, the file.txt is a bit outdated. It contain those files which are likely needed.
 
 ## Model Details
+#### Summary
+![Model Summary](static/Outputs/Model%20Summary.png)
 
+#### Accuracy
+![Model Accuracy](static/Outputs/Model%20Accuracy.png)
+
+#### Loss
+![Model Loss](static/Outputs/Model%20Loss.png)
 
 ## License 
 ### How to Customize:
