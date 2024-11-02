@@ -1,6 +1,7 @@
 # Cat vs. Dog Classifier Web App
 
-![Cat vs. Dog Classifier](static/images/cat_dog_classifier.jpg)
+![Cat vs. Dog Classifier](static/images/cat.jpg)
+![Cat vs. Dog Classifier](static/images/dog.jpg)
 
 ## Table of Contents
 - [Overview](#overview)
