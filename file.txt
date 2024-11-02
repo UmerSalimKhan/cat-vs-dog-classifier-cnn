@@ -1,0 +1,16 @@
+CAT VS. DOG CLASSIFIER WEB APP
+|-- app.py
+|-- models
+|     |-- cat_dog_classifier_model.h5
+|-- static
+|     |-- css
+|         |-- style.css
+|     |-- images
+|         |-- cat.jpg
+|         |-- dog.jpg
+|     |-- js
+|         |-- script.js
+|     |-- uploads
+|-- templates
+|       |-- index.html
+|-- file.txt (holding file structure)

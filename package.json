@@ -1,0 +1,14 @@
+{
+    "name": "cat-vs-dog-classifier",
+    "version": "1.0.0",
+    "description": "A web application for classifying images of cats and dogs using deep learning Convolution Neural Network. The model accuracy is around 88%.",
+    "main": "app.py",
+    "scripts": {
+      "start": "python app.py"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "author": "Umer Khan",
+    "license": "MIT"
+  }
+  
